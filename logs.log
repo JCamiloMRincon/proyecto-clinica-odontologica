@@ -1,0 +1,111 @@
+[2022-07-10 17:28:29] [ INFO ] [OdontologoController:53] Operación exitosa. Se registró el odontólogo: Giggio Topo con matricula: 789012
+[2022-07-10 17:28:35] [ INFO ] [OdontologoController:68] Operación exitosa. Se actualizó el odontólogo con id: 1
+[2022-07-10 17:28:39] [ INFO ] [OdontologoController:53] Operación exitosa. Se registró el odontólogo: Giggio Topo con matricula: 789012
+[2022-07-10 17:28:46] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 2
+[2022-07-10 17:28:58] [ INFO ] [PacienteController:52] Operación exitosa. Se registró el paciente Baspineiro Rodolfo con DNI: 987654
+[2022-07-10 17:29:03] [ INFO ] [PacienteController:67] Operación exitosa. Se actualizó el paciente con id: 1
+[2022-07-10 17:29:09] [ INFO ] [PacienteController:52] Operación exitosa. Se registró el paciente Baspineiro Rodolfo con DNI: 987654
+[2022-07-10 17:29:13] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 2
+[2022-07-10 17:29:37] [ WARN ] [TurnoController:37] Operación exitosa. Sin embargo, no hay turnos registrados
+[2022-07-10 17:30:12] [ ERROR] [TurnoController:81] Operación fallida. La fecha asignada para el turno ya expiró
+[2022-07-10 17:30:35] [ ERROR] [TurnoController:92] Operación fallida. El paciente no existe
+[2022-07-10 17:30:44] [ ERROR] [TurnoController:88] Operación fallida. El odontólogo no existe
+[2022-07-10 17:30:50] [ ERROR] [TurnoController:96] Operación fallida. Ni el odontólogo ni el paciente existen
+[2022-07-10 17:31:08] [ INFO ] [TurnoController:71] Operación exitosa. El turno fue asignado para el día: 2022-08-16 al paciente: null null con el odontólogo: null null
+[2022-07-10 17:31:32] [ ERROR] [TurnoController:57] Operación fallida. El turno no está registrado
+[2022-07-10 17:31:36] [ INFO ] [TurnoController:48] Operación exitosa. Se consultó el turno con id: 1 Paciente: Rincon Juan Odontólogo: Perez Raton
+[2022-07-10 17:31:52] [ INFO ] [TurnoController:39] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 17:32:19] [ ERROR] [TurnoController:112] Operación fallida. El turno no está registrado
+[2022-07-10 17:32:56] [ INFO ] [TurnoController:107] Operación exitosa. Se actualizó el turno con id: 1
+[2022-07-10 17:33:08] [ INFO ] [TurnoController:39] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 17:33:26] [ INFO ] [TurnoController:48] Operación exitosa. Se consultó el turno con id: 1 Paciente: Baspineiro Rodolfo Odontólogo: Giggio Topo
+[2022-07-10 17:33:42] [ ERROR] [TurnoController:127] Operación fallida. El turno no está registrado
+[2022-07-10 17:33:47] [ INFO ] [TurnoController:122] Operación exitosa. Se eliminó el turno con id: 1
+[2022-07-10 21:00:35] [ WARN ] [PacienteController:28] Operación exitosa. Sin embargo, no hay pacientes registrados
+[2022-07-10 21:00:47] [ WARN ] [OdontologoController:28] Operación exitosa. Sin embargo, no hay odontólogos registrados
+[2022-07-10 21:36:58] [ WARN ] [TurnoController:37] Operación exitosa. Sin embargo, no hay turnos registrados
+[2022-07-10 21:37:22] [ WARN ] [TurnoController:37] Operación exitosa. Sin embargo, no hay turnos registrados
+[2022-07-10 21:39:29] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 21:39:40] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 21:39:58] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 21:39:58] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 21:40:11] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 21:40:31] [ INFO ] [PacienteController:39] Operación exitosa. Se consultó el paciente con id: 1
+[2022-07-10 21:47:48] [ WARN ] [TurnoController:37] Operación exitosa. Sin embargo, no hay turnos registrados
+[2022-07-10 21:51:23] [ WARN ] [TurnoController:37] Operación exitosa. Sin embargo, no hay turnos registrados
+[2022-07-10 21:53:11] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 21:53:18] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 21:53:29] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 21:53:29] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 21:53:47] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 21:53:47] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 21:54:47] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 21:55:01] [ INFO ] [OdontologoController:52] Operación exitosa. Se registró el odontólogo: Mouse Mickey con matricula: 123456
+[2022-07-10 21:55:05] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 2
+[2022-07-10 21:55:09] [ INFO ] [OdontologoController:39] Operación exitosa. Se consultó el odontólogo con id: 2
+[2022-07-10 21:55:20] [ INFO ] [OdontologoController:66] Operación exitosa. Se actualizó el odontólogo con id: 2
+[2022-07-10 21:55:22] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 2
+[2022-07-10 21:55:26] [ INFO ] [OdontologoController:80] Operación exitosa. Se eliminó el odontólogo con id: 2
+[2022-07-10 21:55:30] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 21:56:41] [ INFO ] [PacienteController:51] Operación exitosa. Se registró el paciente Mortigo Camilo con DNI: 123456
+[2022-07-10 21:56:45] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 2
+[2022-07-10 21:56:51] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 2
+[2022-07-10 21:56:51] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:08:52] [ INFO ] [TurnoController:70] Operación exitosa. El turno fue asignado para el día: 2022-08-16 al paciente: Prueba Paciente con el odontólogo: Prueba Odontologo
+[2022-07-10 22:09:05] [ INFO ] [TurnoController:39] Operación exitosa. Número de turnos registrados: 1
+[2022-07-10 22:09:26] [ INFO ] [TurnoController:48] Operación exitosa. Se consultó el turno con id: 1 Paciente: Prueba Paciente Odontólogo: Prueba Odontologo
+[2022-07-10 22:10:25] [ INFO ] [TurnoController:104] Operación exitosa. Se actualizó el turno con id: 1
+[2022-07-10 22:10:37] [ INFO ] [TurnoController:118] Operación exitosa. Se eliminó el turno con id: 1
+[2022-07-10 22:12:31] [ WARN ] [TurnoController:37] Operación exitosa. Sin embargo, no hay turnos registrados
+[2022-07-10 22:12:46] [ WARN ] [TurnoController:37] Operación exitosa. Sin embargo, no hay turnos registrados
+[2022-07-10 22:16:17] [ WARN ] [TurnoController:37] Operación exitosa. Sin embargo, no hay turnos registrados
+[2022-07-10 22:16:28] [ WARN ] [TurnoController:37] Operación exitosa. Sin embargo, no hay turnos registrados
+[2022-07-10 22:19:08] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:19:08] [ WARN ] [TurnoController:37] Operación exitosa. Sin embargo, no hay turnos registrados
+[2022-07-10 22:19:08] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 22:19:23] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 22:19:23] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:19:23] [ WARN ] [TurnoController:37] Operación exitosa. Sin embargo, no hay turnos registrados
+[2022-07-10 22:20:59] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:20:59] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 22:21:08] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 22:21:08] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:21:08] [ INFO ] [TurnoController:70] Operación exitosa. El turno fue asignado para el día: 2022-09-10 al paciente: Prueba Paciente con el odontólogo: Prueba Odontologo
+[2022-07-10 22:21:11] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 22:21:11] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:21:11] [ INFO ] [TurnoController:39] Operación exitosa. Número de turnos registrados: 1
+[2022-07-10 22:21:20] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 22:21:20] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:21:20] [ INFO ] [TurnoController:39] Operación exitosa. Número de turnos registrados: 1
+[2022-07-10 22:21:25] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:21:25] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 22:21:25] [ INFO ] [TurnoController:39] Operación exitosa. Número de turnos registrados: 1
+[2022-07-10 22:21:29] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 22:21:29] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:21:29] [ INFO ] [TurnoController:39] Operación exitosa. Número de turnos registrados: 1
+[2022-07-10 22:21:36] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 22:21:36] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:21:36] [ INFO ] [TurnoController:39] Operación exitosa. Número de turnos registrados: 1
+[2022-07-10 22:21:49] [ INFO ] [TurnoController:118] Operación exitosa. Se eliminó el turno con id: 1
+[2022-07-10 22:21:53] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:21:53] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 22:22:07] [ INFO ] [TurnoController:70] Operación exitosa. El turno fue asignado para el día: 2023-08-10 al paciente: Prueba Paciente con el odontólogo: Prueba Odontologo
+[2022-07-10 22:22:09] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 22:22:09] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:22:13] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 22:22:13] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:22:13] [ INFO ] [TurnoController:39] Operación exitosa. Número de turnos registrados: 1
+[2022-07-10 22:22:17] [ INFO ] [TurnoController:48] Operación exitosa. Se consultó el turno con id: 2 Paciente: Prueba Paciente Odontólogo: Prueba Odontologo
+[2022-07-10 22:22:23] [ INFO ] [TurnoController:104] Operación exitosa. Se actualizó el turno con id: 2
+[2022-07-10 22:22:24] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-10 22:22:24] [ INFO ] [OdontologoController:30] Operación exitosa. Número de odontólogos registrados: 1
+[2022-07-10 22:22:24] [ INFO ] [TurnoController:39] Operación exitosa. Número de turnos registrados: 1
+[2022-07-10 22:22:28] [ INFO ] [TurnoController:118] Operación exitosa. Se eliminó el turno con id: 2
+[2022-07-12 20:41:58] [ WARN ] [TurnoController:37] Operación exitosa. Sin embargo, no hay turnos registrados
+[2022-07-12 20:42:35] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 1
+[2022-07-12 20:42:59] [ INFO ] [PacienteController:39] Operación exitosa. Se consultó el paciente con id: 1
+[2022-07-12 20:43:08] [ ERROR] [PacienteController:42] Operación fallida. El paciente no existe
+[2022-07-12 20:44:44] [ INFO ] [PacienteController:51] Operación exitosa. Se registró el paciente Mortigo Camilo con DNI: 123456
+[2022-07-12 20:44:58] [ INFO ] [PacienteController:30] Operación exitosa. Número de pacientes registrados: 2
+[2022-07-12 20:46:08] [ INFO ] [PacienteController:65] Operación exitosa. Se actualizó el paciente con id: 2
+[2022-07-12 20:46:23] [ INFO ] [PacienteController:39] Operación exitosa. Se consultó el paciente con id: 2

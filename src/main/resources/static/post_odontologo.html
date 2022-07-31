@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Alta Odontólogos</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/post_odontologo.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="/">Inicio</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Gestión de Odontólogos
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="/get_all_odontologos.html">Listar odontólogos</a>
+                        <a class="dropdown-item" href="/post_odontologo.html">Agregar odontólogo</a>
+                        <a class="dropdown-item" href="/get_all_pacientes.html">Listar pacientes</a>
+                        <a class="dropdown-item" href="/post_paciente.html">Agregar paciente</a>
+                        <a class="dropdown-item" href="/get_all_turnos.html">Listar turnos</a>
+                        <a class="dropdown-item" href="/post_turno.html">Agregar turno</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-7" style="background-color:#e6fffa; padding:10px; border-radius:3px">
+                <h3>Agregar Odontólogo</h3>
+                <form id="add_new_odontologo">
+                    <div class="form-group">
+                        <label class="control-label" for="apellido">Apellido:</label>
+                        <input type="text" class="form-control" id="apellido"
+                            placeholder="Ingrese el apellido" name="apellido" required>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label" for="nombre">Nombre:</label>
+                        <input type="text" class="form-control" id="nombre"
+                            placeholder="Ingrese el nombre" name="nombre" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label" for="matricula">Matrícula:</label>
+                        <input type="text" class="form-control" id="matricula"
+                            placeholder="Ingrese la matrícula" name="matricula" required>
+                    </div>
+
+                    <button type="submit" class="btn btn-success" id="btn-add-new-odontologo">Guardar</button>
+                </form>
+                <div id="response" style="display:none; margin-top:10px">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
